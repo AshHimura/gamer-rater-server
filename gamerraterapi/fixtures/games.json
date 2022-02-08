@@ -1,0 +1,41 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Vampire: The Masquerade",
+            "description": "As a recently sired vampire, you must traverse the dark world of modern-day Los Angeles—from raver clubs and the secret underground caverns of Downtown to seedy hotels and exclusive mansions on Hollywood's infamous Sunset Strip. Embark in a variety of story-driven quests as you explore an open world filled with side missions, multiple pathways and characters to interact with. Yours is a living world, even though you cease to be.",
+            "designer": "White Wolf Publishing",
+            "year_released": 2004,
+            "number_of_players": 5,
+            "estimated_time_to_play": 2,
+            "age_recommendation": 18
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Clue: Scooby-Doo",
+            "description": "Monstrous abductions are happening at Mrs. White’s Haunted Mansion! It’s up to Scooby-Doo and the gang to discover WHO was abducted, WHERE the abduction took place and WHAT Item the Monster left behind! Play as your Favorite Scooby-Doo character and solve the mystery at Mrs. White’s haunted mansion. An entertaining twist on the Scooby-Doo cartoon series from Hanna-Barbera.",
+            "designer": "Hasbro",
+            "year_released": 2019,
+            "number_of_players": 6,
+            "estimated_time_to_play": 1,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Yu-Gi-Oh!",
+            "description": "In this game, two players Duel each other using a variety of Monster, Spell, and Trap Cards to defeat their opponent's monsters and be the first to drop the other's Life Points to 0.",
+            "designer": "Konami",
+            "year_released": 1999,
+            "number_of_players": 4,
+            "estimated_time_to_play": 1,
+            "age_recommendation": 12
+        }
+    }
+]
